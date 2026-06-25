@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lifestealsmp34.aternos.me:23678",
+    "ip": "Lifestealsmp34.aternos.me",
     "port": 23678,
     "version": "",
     "try-creative": false
